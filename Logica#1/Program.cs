@@ -10,8 +10,9 @@ namespace LogicaBasicaCSharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)Get-Content -Path "Logica#1\Program.cs" -Head 15
         {
+            Console.WriteLine("¡Probando el flujo completo de Git y GitHub!");
             Console.WriteLine("==========================================");
             Console.WriteLine("   LÓGICA DE PROGRAMACIÓN EN C# - BÁSICO");
             Console.WriteLine("==========================================");
