@@ -1,0 +1,29 @@
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.AssemblyInfoInputs.cache
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.AssemblyInfo.cs
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.csproj.CoreCompileInputs.cache
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.exe
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.deps.json
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.runtimeconfig.json
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.dll
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.pdb
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.dll
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\refint\Logica#1.dll
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.pdb
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.genruntimeconfig.cache
+D:\Escritorio\0 UNIVERSIDAD\TECNOLOGIAS WEB\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\ref\Logica#1.dll
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.exe
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.deps.json
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.runtimeconfig.json
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.dll
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\bin\Debug\net10.0\Logica#1.pdb
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.AssemblyInfoInputs.cache
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.AssemblyInfo.cs
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.csproj.CoreCompileInputs.cache
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.dll
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\refint\Logica#1.dll
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.pdb
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.genruntimeconfig.cache
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\ref\Logica#1.dll
+D:\Escritorio\Projectos_code\Logica de C#\Logica#1\Logica#1\obj\Debug\net10.0\Logica#1.csproj.Up2Date
